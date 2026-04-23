@@ -1,17 +1,17 @@
-# Baileys-Vinzz - WhatsApp Bot Framework 2026 Spesial Edition
+# Baileys-AsepNotDev - WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
-  <img src="https://files.catbox.moe/1z94w7.jpeg" width="300" alt="Baileys Vinzz" />
+  <img src="https://h.uguu.se/vCDEpcky.jpeg" width="300" alt="Baileys Asep" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/VinzzOfficial/Baileys"><img src="https://img.shields.io/github/stars/VinzzOfficial/Baileys?style=for-the-badge" alt="Stars"></a>
-  <a href="https://www.npmjs.com/package/@vinzzofficial/baileys"><img src="https://img.shields.io/npm/v/@vinzzofficial/baileys?style=for-the-badge" alt="NPM"></a>
+  <a href="https://github.com/AsepNotDev/Baileys"><img src="https://img.shields.io/github/stars/VinzzOfficial/Baileys?style=for-the-badge" alt="Stars"></a>
+  <a href="https://www.npmjs.com/package/@asepnotdev/baileys"><img src="https://img.shields.io/npm/v/@asepnotdev/baileys?style=for-the-badge" alt="NPM"></a>
 </p>
 
 ---
 
-**Baileys-Vinzz** adalah versi modifikasi dari [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys), dirancang khusus untuk para developer bot WhatsApp di tahun 2025. Fokus utama versi ini adalah kestabilan pairing code, session auto-recovery, dan fitur tambahan eksklusif yang tidak tersedia di versi original.
+**Baileys-AsepNotDev** adalah versi modifikasi dari [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys), dirancang khusus untuk para developer bot WhatsApp di tahun 2025. Fokus utama versi ini adalah kestabilan pairing code, session auto-recovery, dan fitur tambahan eksklusif yang tidak tersedia di versi original.
 
 ---
 
@@ -30,6 +30,6 @@
 ## Instalasi
 
 ```bash
-npm install @vinzzofficial/baileys
+npm install @AsepNotDev/baileys
 
 ```
