@@ -30,6 +30,6 @@
 ## Instalasi
 
 ```bash
-npm install @AsepNotDev/baileys
+npm install @asepnotdev/baileys
 
 ```
